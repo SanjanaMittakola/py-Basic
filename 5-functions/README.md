@@ -1,4 +1,4 @@
-# 05-Functions
+# Functions
 
 ### 1-perfect_number.py
 Check Perfect Number Using Function A number is perfect if sum of its proper divisors equals the number itself. Example: 28 → 1 + 2 + 4 + 7 + 14 = 28 ✅
