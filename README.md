@@ -50,7 +50,7 @@ Py-Basic/<br>
 │   ├── 8-bmi_calculator.py<br>
 │   ├── 9-traffic_light.py<br>
 │   └── 10-char_identifier.py<br>
-├── 04-Patterns/<br><b>
+├── 04-Patterns/<b><br>
 │   ├── 01-full_pyramid.py<br>
 │   ├── 02-inverted_half_pyramid.py<br>
 │   ├── 03-right_aligned_half_pyramid.py<br>
@@ -69,7 +69,7 @@ Py-Basic/<br>
 │   ├── 16-hollow_rhombus.py<br>
 │   ├── 17-palindromic_number_pyramid.py<br>
 │   └── 18-border_pyramid.py
-├── 05-Functions/<br><b>
+├── 05-Functions/<b><br>
 │   ├── 1-perfect_number.py<br>
 │   ├── 2-palindrome_sentence.py<br>
 │   ├── 3-primes_between_limits.py<br>
