@@ -6,25 +6,29 @@ Includes simple programs like printing “Hello World”, taking user input, usi
 
 ## 2. Data Structures
 
-Covers lists, tuples, strings, dictionaries, and sets — creation, accessing elements, performing operations, nesting, slicing, unpacking, and using built-in functions.
+Covers lists, tuples, strings, dictionaries, and sets 
 
 ## 3. Loops & Conditions
 
-Exercises using for and while loops with conditional statements. Includes programs like counting vowels, reversing strings, digit sum operations, finding the second largest number, BMI and fare calculators, and traffic light simulation.
+Exercises using for and while loops with conditional statements. .
 
 ## 4. Patterns
 
-A collection of pattern-printing programs such as star pyramids, inverted triangles, number pyramids, diamond patterns, hollow rectangles, and butterfly star designs.
+A collection of pattern-printing programs 
+
+## 5. Functions
+
+Covers function-based problem-solving and recursion.
 
 ### Path.<br>
 Py-Basic/<br>
-├── 01-Basics/<br>
+├── 01-Basics/<br><b>
 │   ├── 1-hello.py<br>
 │   ├── 2-user_input.py<br>
 │   ├── 3-variable.py<br>
 │   ├── 4-type.py<br>
 │   └── 5-conversion.py<br>
-├── 02-DataStructures/<br>
+├── 02-DataStructures/<br><b>
 │   ├── 1-list.py<br>
 │   ├── 2-list_operation.py<br>
 │   ├── 3-list_bltin.py<br>
@@ -35,7 +39,7 @@ Py-Basic/<br>
 │   ├── 8-string.py<br>
 │   ├── 9-dic.py<br>
 │   └── 10-set.py<br>
-├── 03-Loops-Conditions/<br>
+├── 03-Loops-Conditions/<br><b>
 │   ├── 1-vowel_count.py<br>
 │   ├── 2-sum_of_digits.py<br>
 │   ├── 3-reverse_string.py<br>
@@ -46,7 +50,7 @@ Py-Basic/<br>
 │   ├── 8-bmi_calculator.py<br>
 │   ├── 9-traffic_light.py<br>
 │   └── 10-char_identifier.py<br>
-├── 04-Patterns/<br>
+├── 04-Patterns/<br><b>
 │   ├── 01-full_pyramid.py<br>
 │   ├── 02-inverted_half_pyramid.py<br>
 │   ├── 03-right_aligned_half_pyramid.py<br>
@@ -65,7 +69,7 @@ Py-Basic/<br>
 │   ├── 16-hollow_rhombus.py<br>
 │   ├── 17-palindromic_number_pyramid.py<br>
 │   └── 18-border_pyramid.py
-├── 05-Functions/<br>
+├── 05-Functions/<br><b>
 │   ├── 1-perfect_number.py<br>
 │   ├── 2-palindrome_sentence.py<br>
 │   ├── 3-primes_between_limits.py<br>
