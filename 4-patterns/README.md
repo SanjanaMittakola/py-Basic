@@ -2,27 +2,24 @@
 
 
 ### 01-full_pyramid.py
-    * <br>
-   * * <br>
-  * * * <br>
- * * * * <br>
-* * * * * <br>
+
+         * <br>
+       * * <br>
+      * * * <br> * * * * <br>* * * * * <br>
 
 ### 02-inverted_half_pyramid.py
-* * * * *<br>
-* * * *<br>
-* * *<br>
-* *<br>
-*<br>
+ * * * * *<br>* * * *<br>* * *<br>* *<br>*<br>
 
 ### 03-right_aligned_half_pyramid.py
-    *<br>
-   * *<br>
-  * * *<br>
- * * * *<br>
-* * * * *<br>
+    *<br>  * *<br>  * * *<br> * * * *<br>* * * * *<br>
 
 ### 04-right_aligned_triangle.py
+
+    * <br>
+   **<br>
+  ***<br>
+ ****<br>
+*****<br>
 
 ### 05-increasing_right_triangle.py
 

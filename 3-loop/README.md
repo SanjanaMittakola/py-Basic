@@ -1,16 +1,6 @@
 # Loops-Conditions
 
-03-Loops-Conditions/<br>
-│   ├── 1-vowel_count.py<br>
-│   ├── 2-sum_of_digits.py<br>
-│   ├── 3-reverse_string.py<br>
-│   ├── 4-sum_until_one_digit.py<br>
-│   ├── 5-second_largest.py<br>
-│   ├── 6-char_occurrence.py<br>
-│   ├── <br>
-│   ├── <br>
-│   ├── <br>
-│   └── <br>
+
 ### 1-vowel_count.py
 Write a for loop that loops through a string and counts the number of vowels.
 
