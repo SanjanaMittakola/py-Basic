@@ -1,25 +1,13 @@
-# Patterns
+ Patterns
 
+01-full_pyramid.py
 
-### 01-full_pyramid.py
-
-         * <br>
-       * * <br>
-      * * * <br> * * * * <br>* * * * * <br>
 
 ### 02-inverted_half_pyramid.py
- * * * * *<br>* * * *<br>* * *<br>* *<br>*<br>
 
 ### 03-right_aligned_half_pyramid.py
-    *<br>  * *<br>  * * *<br> * * * *<br>* * * * *<br>
 
 ### 04-right_aligned_triangle.py
-
-    * <br>
-   **<br>
-  ***<br>
- ****<br>
-*****<br>
 
 ### 05-increasing_right_triangle.py
 
@@ -33,7 +21,7 @@
 
 
 ### 10-number_block_with_hash.py
-
+![alt text](image.png)
 ### 11-diamond_star_pattern.py
 
 ### 12-inverted_number_pyramid.py
