@@ -6,3 +6,5 @@ print("your maximum value in list :",max(l))
 print("your minimum value in list :",min(l))
 print("your sum value in list :",sum(l))
 print("your sum divide by length value in list :",sum(l)/len(l))
+
+
