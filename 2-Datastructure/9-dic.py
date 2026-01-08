@@ -18,3 +18,11 @@ print("Adding element : ",d2)
 print("accessing value :",d2.get(6))
 print("deleting value of d2 index 7 :",d2.pop(6))
 print("deleting all value of dic :",d4.popitem)
+item = {
+    "Fruits": {"First": "Apple","Second": "Orange","Third": "Pineapple","Fourth": "Mango","Fifth": "Banana"},
+    "Vegetables": {"First": "Onion","Second": "Potato","Third": "Tomato","Fourth": "Cauliflower","Fifth": "Carrot"},
+    "Animals": {"First": "Cat","Second": "Dog","Third": "Rat","Fourth": "Tiger","Fifth": "Lion"}
+}
+print(item)
+print(item["Fruits"])
+print(item["Animals"]["Fifth"])
