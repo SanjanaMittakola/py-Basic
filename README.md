@@ -28,6 +28,7 @@ Py-Basic/<br>
 │   ├── 3-variable.py<br>
 │   ├── 4-type.py<br>
 │   └── 5-conversion.py<br>
+│ <br>
 ├── 02-DataStructures/<br>
 │   ├── 1-list.py<br>
 │   ├── 2-list_operation.py<br>
@@ -39,6 +40,7 @@ Py-Basic/<br>
 │   ├── 8-string.py<br>
 │   ├── 9-dic.py<br>
 │   └── 10-set.py<br>
+│ <br>
 ├── 03-Loops-Conditions/<br>
 │   ├── 1-vowel_count.py<br>
 │   ├── 2-sum_of_digits.py<br>
@@ -50,6 +52,7 @@ Py-Basic/<br>
 │   ├── 8-bmi_calculator.py<br>
 │   ├── 9-traffic_light.py<br>
 │   └── 10-char_identifier.py<br>
+│ <br>
 ├── 04-Patterns/<br>
 │   ├── 01-full_pyramid.py<br>
 │   ├── 02-inverted_half_pyramid.py<br>
@@ -69,6 +72,7 @@ Py-Basic/<br>
 │   ├── 16-hollow_rhombus.py<br>
 │   ├── 17-palindromic_number_pyramid.py<br>
 │   └── 18-border_pyramid.py<br>
+│ <br>
 ├── 05-Functions/<br>
 │   ├── 1-perfect_number.py<br>
 │   ├── 2-palindrome_sentence.py<br>
@@ -80,3 +84,4 @@ Py-Basic/<br>
 │   ├── 8-sum_of_digit.py<br>
 │   ├── 9-power.py<br>
 │   └── 10-reverse_string.py<br>
+│ <br>
