@@ -1,6 +1,5 @@
 # Loops-Conditions
 
-
 ### 1-vowel_count.py
 Write a for loop that loops through a string and counts the number of vowels.
 
@@ -32,6 +31,39 @@ Output: Red → "Stop", Green → "Go", Yellow → "Wait", Any other → "Invali
 
 ### 10-char_identifier.py
 Character Identifier. Input: a single character: If it's a vowel → "Vowel", If consonant → "Consonant", If digit → "Digit", If symbol → "Special character"
+
+### 11-count_positive_no.py
+Given a list of numbers, count how many are positive.
+numbers = [1, -2, 3, -4, 5, 6, -7, -8, 9, 10]
+
+### 12-sum_even_no.py
+Calculate the sum of even numbers up to a given number n.
+
+### 13-multiply_taple-printer.py
+Print the multiplication table for a given number up to 10, but skip the fifth iteration.
+
+### 14-reverse_str.py
+Reverse a string using a loop.
+
+### 15-nonrepeat_char.py
+Given a string, find the first non-repeated character.
+
+### 16-factorial.py
+Compute the factorial of a number using a while loop.
+
+### 17-validate_input.py
+Keep asking the user for input until they enter a number between 1 and 10.
+
+### 18-prime_no_check.py
+Check if a number is prime.
+
+### 19-list_uniqueness_checker.py
+Check if all elements in a list are unique. If a duplicate is found, exit the loop and print the duplicate.
+items = ["apple", "banana", "orange", "apple", "mango"]
+
+### 20-exponential_backoff.py
+Implement an exponential backoff strategy that doubles the wait time between retries, starting from 1 second, but stops after 5 retries.
+
 
 
 
