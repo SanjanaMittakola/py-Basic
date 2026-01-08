@@ -8,15 +8,19 @@ Includes simple programs like printing “Hello World”, taking user input, usi
 
 Covers lists, tuples, strings, dictionaries, and sets 
 
-## 3. Loops & Conditions
+## 3. Conditions
 
-Exercises using for and while loops with conditional statements. .
+Exercises using conditional statements. 
 
-## 4. Patterns
+## 4. Loops
+
+Exercises using for and while loops with conditional statements. 
+
+## 5. Patterns
 
 A collection of pattern-printing programs 
 
-## 5. Functions
+## 6. Functions
 
 Covers function-based problem-solving and recursion.
 
@@ -41,7 +45,16 @@ Py-Basic/<br>
 │   ├── 9-dic.py<br>
 │   └── 10-set.py<br>
 │ <br>
-├── 03-Loops-Conditions/<br>
+├── 03-conditions/<br>
+│   ├── 1-age_group_categorize.py<br>
+│   ├── 2-movie_tecket_price.py<br>
+│   ├── 3-Grade_Calculator.py<br>
+│   ├── 4-Fruit_Ripeness_Checker.py<br>
+│   ├── 5-Weather_Activity_Suggestion.py<br>
+│   ├── 6-Coffee_Customization.py<br>
+│   └── 7-Leap_Year_Checker.py<br>
+│ <br>
+├── 04-Loops/<br>
 │   ├── 1-vowel_count.py<br>
 │   ├── 2-sum_of_digits.py<br>
 │   ├── 3-reverse_string.py<br>
@@ -51,7 +64,17 @@ Py-Basic/<br>
 │   ├── 7-train_ticket_pricing.py<br>
 │   ├── 8-bmi_calculator.py<br>
 │   ├── 9-traffic_light.py<br>
-│   └── 10-char_identifier.py<br>
+│   ├── 10-char_identifier.py<br> 
+│   ├── 11-count_positive_no.py<br>
+│   ├── 12-sum_even_no.py<br>
+│   ├── 13-multiply_taple-printer.py<br>
+│   ├── 14-reverse_str.py<br>
+│   ├── 15-nonrepeat_char.py<br>
+│   ├── 16-factorial.py<br>
+│   ├── 17-validate_input.py<br>
+│   ├── 18-prime_no_check.py<br>
+│   ├── 19-list_uniqueness_checker.py<br>
+│   └── 20-exponential_backoff.py<br>
 │ <br>
 ├── 04-Patterns/<br>
 │   ├── 01-full_pyramid.py<br>
