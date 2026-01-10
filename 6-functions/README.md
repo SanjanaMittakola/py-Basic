@@ -30,3 +30,29 @@ Write a recursive function to calculate a^b (a raised to the power b).
 ### 10-reverse_string.py
 10.Write a recursive function to reverse a string.
 
+### 11-square.py
+write a function to calculate and return the square of a number.
+
+### 12-sum.py
+#create a function that take two numers as parameter and return their sum.
+
+### 13-multiple.py
+write a function multiply thatmultiplies two numbers, but can also accept and multiply string
+
+### 14-radius.py
+Create a function that returns both the area and circumference of a circle given its radius
+
+### 15-default.py
+ Write a function that greets a user. If no name is provided, it should greet with a default name.
+
+ ### 16-lamda.py
+ Create a lambda function to compute the cube of a number.
+
+### 17-Function_with_args.py
+ Write a function that takes variable number of arguments and returns their sum.
+
+ ### 18-Function_with_kwargs.py
+ Create a function that accepts any number of keyword arguments and prints them in the format key: value.
+
+### 19-Generator_Function_with_yield.py
+Write a generator function that yields even numbers up to a specified limit.

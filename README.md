@@ -76,7 +76,7 @@ Py-Basic/<br>
 │   ├── 19-list_uniqueness_checker.py<br>
 │   └── 20-exponential_backoff.py<br>
 │ <br>
-├── 04-Patterns/<br>
+├── 05-Patterns/<br>
 │   ├── 01-full_pyramid.py<br>
 │   ├── 02-inverted_half_pyramid.py<br>
 │   ├── 03-right_aligned_half_pyramid.py<br>
@@ -96,7 +96,7 @@ Py-Basic/<br>
 │   ├── 17-palindromic_number_pyramid.py<br>
 │   └── 18-border_pyramid.py<br>
 │ <br>
-├── 05-Functions/<br>
+├── 06-Functions/<br>
 │   ├── 1-perfect_number.py<br>
 │   ├── 2-palindrome_sentence.py<br>
 │   ├── 3-primes_between_limits.py<br>
