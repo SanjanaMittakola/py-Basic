@@ -106,5 +106,28 @@ Py-Basic/<br>
 │   ├── 7-fibonacci.py<br>
 │   ├── 8-sum_of_digit.py<br>
 │   ├── 9-power.py<br>
-│   └── 10-reverse_string.py<br>
+│   ├── 10-reverse_string.py<br>
+│   ├── 11-square.py<br>
+│   ├── 12-sum.py<br>
+│   ├── 13-multiple.py<br>
+│   ├── 14-radius.py<br>
+│   ├── 15-default.py<br>
+│   ├── 16-lamda.py<br>
+│   ├── 17-Function_with_args.py<br>
+│   ├── 18-Function_with_kwargs.py<br>
+│   └── 19-Generator_Function_with_yield.py<br>
 │ <br>
+├── 07-OOP/<br>
+│   ├── 1-class.py<br>
+│   ├── 2-inheritance.py<br>
+│   ├── 3-encapsulation.py<br>
+│   ├── 4-polymorphism.py<br>
+│   ├── 5-static.py<br>
+│   ├── 6-property_decorator.py<br>
+│   ├── 7-isinstance.py<br>
+│   └── 8-multiple_inheritance.py<br>
+│ <br>
+├── 08-decorator/<br>
+│   ├── 1-Timing_Function_Execution.py<br>
+│   ├── 2-Debugging_Function_Calls.py<br>
+│   └── 3-Cache_Return_Values.py<br>
